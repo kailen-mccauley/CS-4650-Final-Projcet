@@ -17984,6 +17984,7 @@
   {
     "id": 2998,
     "sentence": "\" @esangie023 : @arianaasalgado * rolling my eyes* \" ten cuidado que no se te vayan ya que you are forever rolling your eyes",
-    "gold_label": "positive"
+    "language": "other other other other other lang1 lang1 lang1 other lang2 lang2 lang2 lang2 lang2 lang2 lang2 lang2 lang2 lang1 lang1 lang1 lang1 lang1 lang1",
+    "sentiment_label": "positive"
   }
 ]
