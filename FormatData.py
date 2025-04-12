@@ -39,7 +39,8 @@ with open('dataset/Spanglish_dev.conll', 'r', encoding='utf-8') as f:
         dataset.append({
             "id": current_id,
             "sentence": ' '.join(current_words),
-            "gold_label": current_sentiment
+            "language": ' '.join(current_lang_markers),
+            "sentiment_label": current_sentiment
         })
 
 # Save to JSON file
