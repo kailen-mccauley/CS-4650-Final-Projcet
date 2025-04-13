@@ -44,7 +44,7 @@ with open('dataset/Spanglish_dev.conll', 'r', encoding='utf-8') as f:
         })
 
 # Save to JSON file
-with open('spanglish_dataset.json', 'w', encoding='utf-8') as json_file:
+with open('dataset/spanglish_dataset.json', 'w', encoding='utf-8') as json_file:
     json.dump(dataset, json_file, ensure_ascii=False, indent=2)
 
 print("Conversion successful! JSON file saved.")
