@@ -1,0 +1,1508 @@
+[
+  {
+    "id": 2638,
+    "prediction": "negative",
+    "confidence": 0.6,
+    "reason": "Contains profanity ('fuck'), conveying anger or frustration (negative sentiment)."
+  },
+  {
+    "id": 2639,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Contains a sad or disappointed emoji, indicating a negative sentiment."
+  },
+  {
+    "id": 2640,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2641,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Uses the profanity 'shit', expressing anger or frustration (negative sentiment)."
+  },
+  {
+    "id": 2642,
+    "prediction": "neutral",
+    "confidence": 0.95,
+    "reason": "Sharing info (links/hashtags) without emotional language, so it's neutral."
+  },
+  {
+    "id": 2643,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Contains heart/love emojis, which strongly indicate positive feelings."
+  },
+  {
+    "id": 2644,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2645,
+    "prediction": "neutral",
+    "confidence": 0.95,
+    "reason": "Sharing info (links/hashtags) without emotional language, so it's neutral."
+  },
+  {
+    "id": 2646,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2647,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2648,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Overall positive or upbeat language is used, implying a positive sentiment."
+  },
+  {
+    "id": 2649,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2650,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Overall positive or upbeat language is used, implying a positive sentiment."
+  },
+  {
+    "id": 2651,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2652,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2653,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Contains heart/love emojis, which strongly indicate positive feelings."
+  },
+  {
+    "id": 2654,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Uses 'odio' (Spanish for 'hate'), which clearly signals negative sentiment."
+  },
+  {
+    "id": 2655,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2656,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Talks about unfollowing someone, indicating disapproval or negative sentiment."
+  },
+  {
+    "id": 2657,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Has some negative words but likely in a factual or joking way, resulting in a neutral sentiment."
+  },
+  {
+    "id": 2658,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2659,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Contains heart/love emojis, which strongly indicate positive feelings."
+  },
+  {
+    "id": 2660,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Uses 'mamabicherías' (Puerto Rican slang for nonsense/BS), showing annoyance (negative sentiment)."
+  },
+  {
+    "id": 2661,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2662,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2663,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2664,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Uses 'joder' (to annoy) in Spanish, indicating something bothersome (negative sentiment)."
+  },
+  {
+    "id": 2665,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2666,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Has some negative words but likely in a factual or joking way, resulting in a neutral sentiment."
+  },
+  {
+    "id": 2667,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2668,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Describes an experience as 'awkward/incómodo' (uncomfortable), indicating a negative feeling."
+  },
+  {
+    "id": 2669,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Expresses love/affection in English (e.g., using 'love'), conveying a positive sentiment."
+  },
+  {
+    "id": 2670,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "The tone suggests a negative sentiment."
+  },
+  {
+    "id": 2671,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2672,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Overall positive or upbeat language is used, implying a positive sentiment."
+  },
+  {
+    "id": 2673,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes censored Spanish profanity 'jod@$&' with excitement ('Hasta abajo'), suggesting a playful positive mood."
+  },
+  {
+    "id": 2674,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter (e.g., 'jajaja' in Spanish or 'lol'), suggesting a humorous, positive tone."
+  },
+  {
+    "id": 2675,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses polite words like 'Bella' (beautiful) and praise, conveying a positive sentiment."
+  },
+  {
+    "id": 2676,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Has some positive elements but also a matter-of-fact tone, leading to a neutral sentiment."
+  },
+  {
+    "id": 2677,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "No clear positive or negative expressions; it's a factual or neutral statement."
+  },
+  {
+    "id": 2678,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Overall positive or upbeat language is used, implying a positive sentiment."
+  },
+  {
+    "id": 2679,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses 'PERO ESTARÁ' (Spanish for 'but it will be [there]') enthusiastically, indicating positivity."
+  },
+  {
+    "id": 2680,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Has some positive elements but also a matter-of-fact tone, leading to a neutral sentiment."
+  },
+  {
+    "id": 2681,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "The tone suggests a negative sentiment."
+  },
+  {
+    "id": 2682,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Sharing info (links/hashtags) without emotional language, so it's neutral."
+  },
+  {
+    "id": 2683,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Describes being emotionally drained by a book, but in a flat tone ('fuck' as an interjection), netural overall."
+  },
+  {
+    "id": 2684,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses encouraging phrases ('felicidades', 'Te amo') and motivation, indicating positive sentiment."
+  },
+  {
+    "id": 2685,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Overall positive or upbeat language is used, implying a positive sentiment."
+  },
+  {
+    "id": 2686,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Expresses determination and not caring about others, ending positively, implying a positive focus."
+  },
+  {
+    "id": 2687,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes laughter ('jejejee') and casual tone, indicating a light, positive sentiment."
+  },
+  {
+    "id": 2688,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Says 'sin duda la mejor canción' (without a doubt the best song), which is clearly positive praise."
+  },
+  {
+    "id": 2689,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses 'Mejor noticia eveeeer' (best news ever) with excitement and heart-eyes emoji, indicating strong positive sentiment."
+  },
+  {
+    "id": 2690,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Despite a setback ('no voy a desanimarme'), remains determined and optimistic, indicating a positive outlook."
+  },
+  {
+    "id": 2691,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "States 'Yo sería feliz...' (I would be happy...), directly expressing a positive desire."
+  },
+  {
+    "id": 2692,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Greets 'Good morning' and uses exclamation with a friendly tone (plus '¡ a disfrutarla !'), indicating positivity."
+  },
+  {
+    "id": 2693,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Includes 'jajajaja' (laughter) and 'perfect', indicating a happy, positive sentiment."
+  },
+  {
+    "id": 2694,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "It's an event advertisement with excitement (e.g., multiple hashtags about fashion), implying a positive context."
+  },
+  {
+    "id": 2695,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses 'que me gusta' (that I like) about someone, showing personal liking and excitement ('omfg'), hence positive."
+  },
+  {
+    "id": 2696,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Contains hashtags and an announcement, but no clear emotion, so it's neutral."
+  },
+  {
+    "id": 2697,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "References a cheerful song lyric ('I'm walking on sunshine') and heart emoji, indicating a positive mood."
+  },
+  {
+    "id": 2698,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Mixes English and Spanish ('not yet, en 3 meses') in a casual update, with a positive or neutral informative tone."
+  },
+  {
+    "id": 2699,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Expresses being 'bien quita' (slang for very off) from workouts, somewhat negative context but stated flatly, leaning neutral."
+  },
+  {
+    "id": 2700,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Encourages someone excitedly (mixing Spanish 'tómate un tranquilizante' and English), indicating playful positive enthusiasm."
+  },
+  {
+    "id": 2701,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "The elongated 'Muerooooooo' and 'pleaseeeeee' show dramatic excitement (not actual negativity), indicating positive eagerness."
+  },
+  {
+    "id": 2702,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Tells a fanciful story with humor ('los perros vencieron... se odian'), likely a playful tone (positive/neutral storytelling)."
+  },
+  {
+    "id": 2703,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses 'fancy shit' in a light context, likely expressing excitement about new suitcases, which is a positive sentiment."
+  },
+  {
+    "id": 2704,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Talks about something motivating them to wake up (burrito day 💘🌯), indicating happy anticipation (positive)."
+  },
+  {
+    "id": 2705,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Promotional tweet with excitement (#sportday, 'Nuevos cursos'), implying a positive announcement."
+  },
+  {
+    "id": 2706,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Casually discusses game consoles in Spanish ('una es la play 3 y la otra la 4') with a happy emoji, indicating a positive tone."
+  },
+  {
+    "id": 2707,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Just hashtags (Powerball, etc.) and a link, no sentiment expressed, so neutral."
+  },
+  {
+    "id": 2708,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Says 'Yo feliz de la vida...' (I'm happy with life) and uses 'jajajaja', showing a very positive, joyful sentiment."
+  },
+  {
+    "id": 2709,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses 'Me ha gustado un video' (I liked a video), which is a straightforward positive reaction."
+  },
+  {
+    "id": 2710,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Shouts 'VAMOOOOOOO' (Let's go) and 'ME VA EL CORAZÓN A MIL' (my heart is racing), showing extreme excitement (positive)."
+  },
+  {
+    "id": 2711,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Uses 'Maldita... te fucking odio' (Damn... I fucking hate you), which is clearly a negative sentiment."
+  },
+  {
+    "id": 2712,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Sharing a photo repost of friends (with no complaint), presumably a neutral/positive promotional context."
+  },
+  {
+    "id": 2713,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Complains about traffic ('está bien Nasty') but the tweet tags official accounts and is informational, overall neutral/positive engagement."
+  },
+  {
+    "id": 2714,
+    "prediction": "neutral",
+    "confidence": 0.95,
+    "reason": "Just says 'Ready' with a hashtag and link, which is neutral (no emotion)."
+  },
+  {
+    "id": 2715,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Expresses thanks ('Gracias... por el regalo') to someone, showing gratitude which is positive."
+  },
+  {
+    "id": 2716,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Enthusiastically planning something ('vamos a hacerle una pleaze'), the tone is excited and positive."
+  },
+  {
+    "id": 2717,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Says 'Dos días... 😭 i hate school 💔💔💔', including 'hate' and crying/broken-heart emojis, clearly negative."
+  },
+  {
+    "id": 2718,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just hashtags and a link, no sentiment expressed."
+  },
+  {
+    "id": 2719,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'te acabo de llamar... sale tu voicemail' (I just called and got voicemail) in a matter-of-fact way, mild frustration at most, neutral overall."
+  },
+  {
+    "id": 2720,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses 'lol' and a casual tone in asking someone about high school, suggesting a light, friendly (positive) mood."
+  },
+  {
+    "id": 2721,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Promotional tweet with style/fashion hashtags, implying excitement or positivity about the event."
+  },
+  {
+    "id": 2722,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Lyrics about 'Mi música es radioactiva' with a playful tone (calling listener 'Zomber'), overall an energetic but neutral statement."
+  },
+  {
+    "id": 2723,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Jokingly calls someone a fun insult 'HueleMeriendas' (snack-sniffer) with smileys, indicating a playful positive camaraderie."
+  },
+  {
+    "id": 2724,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Announces a pre-sale (Pre Venta) with excitement and exclamation marks, indicating a positive promotional sentiment."
+  },
+  {
+    "id": 2725,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Let me take a selfie!' and compliments a client ('Asi de Bella es...'), showing a fun, positive mood."
+  },
+  {
+    "id": 2726,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Mixes languages to advertise a dress (includes 'Realiza tu pedido'), a straightforward promotional positive context."
+  },
+  {
+    "id": 2727,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Video title with exclamation 'AHORA SOY UN TRANSFORMER', likely a fun announcement, positive excitement."
+  },
+  {
+    "id": 2728,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes someone saying 'que annoying' and adds 'jajaja', indicating they find it amusing, so overall positive/humorous."
+  },
+  {
+    "id": 2729,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Celebrating a score in a game (Medalla vs Long Island drinks) with '!!' and 'jajaja', showing a cheerful, positive mood."
+  },
+  {
+    "id": 2730,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Complains about a trip being long ('fucking eterno') but mainly stating a fact, giving a neutral/negative mix; leaning neutral."
+  },
+  {
+    "id": 2731,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Describes a late-night meal (Arroz y habichuelas at 2am), which is just a statement of fact, neutral."
+  },
+  {
+    "id": 2732,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Si la gente cambia... But should be for better' - a general statement, somewhat contemplative but neither clearly positive nor negative."
+  },
+  {
+    "id": 2733,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Reacting with surprise and excitement ('En serio?! OMG!'), indicating a positive, astonished sentiment."
+  },
+  {
+    "id": 2734,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Amo a mi @charlyperez' (I love my @charlyperez), which is a direct positive sentiment (love)."
+  },
+  {
+    "id": 2735,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Filled with excitement ('AQUÍ LO TENÉIS :D...'), hearts and exclamation, clearly a very positive, enthusiastic sentiment."
+  },
+  {
+    "id": 2736,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Casual friendly exchange ('ahh ok bebo, pues te aviso') with no negativity, indicating a polite, positive tone."
+  },
+  {
+    "id": 2737,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Calls something 'catchy', which implies enjoyment (positive sentiment)."
+  },
+  {
+    "id": 2738,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Laughs ('hahaha') at something that 'tiene que ser 😂', likely just an observation with humor, overall neutral/positive but more factual."
+  },
+  {
+    "id": 2739,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Asks 'Que carajo pasa...' (What the hell is happening...), indicating frustration or confusion (negative)."
+  },
+  {
+    "id": 2740,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Quotes 'whyyyyyy did I just...' and says 'me va a seguir toda la semana' - slight annoyance at a phrase stuck in head, but fairly neutral."
+  },
+  {
+    "id": 2741,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Casual scheduling ('cuando tengas un break'), a neutral statement without sentiment."
+  },
+  {
+    "id": 2742,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses polite words like 'Gracias Familia' and enthusiastic Friday vibe ('Como siempre sintonizando'), a grateful, positive tone."
+  },
+  {
+    "id": 2743,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Vamo’ a darle shut down a las luces' (let's shut down the lights) - an imperative, but no emotional content, neutral."
+  },
+  {
+    "id": 2744,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Promotional content ('Chic Model... Registraciones') with links, factual and neutral in tone."
+  },
+  {
+    "id": 2745,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Exclaims 'WOW WOMAN!' and praises efforts ('celebra tu esfuerzo... éxito laboral'), clearly an empowering positive message."
+  },
+  {
+    "id": 2746,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Describes a scene ('⛵️🌤') inviting others to enjoy family time, which is warm and positive."
+  },
+  {
+    "id": 2747,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'In love with this beauty!!' and uses many positive hashtags (#amazing, #happy), indicating a very positive sentiment."
+  },
+  {
+    "id": 2748,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Promotes a music video with excitement (all caps titles, exclamation), which is a positive, enthusiastic announcement."
+  },
+  {
+    "id": 2749,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just hashtags (#elVacilondelagatita #Quote) and a link, so neutral."
+  },
+  {
+    "id": 2750,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Replies with 'claro!!' (of course!!) and provides help (link), which is a friendly, positive response."
+  },
+  {
+    "id": 2751,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Complains about noise ('quiero Silencio!! Lol') but uses 'Lol', indicating it's half-joking, and overall relieved/humorous (slightly positive)."
+  },
+  {
+    "id": 2752,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "A general hashtag statement about Genesis and pants at university, context-dependent but likely a neutral joke/trend."
+  },
+  {
+    "id": 2753,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Casually says 'De Nada mi amor! Pa eso estamos baby!' (You're welcome my love, that's what we're here for, baby!), clearly affectionate and positive."
+  },
+  {
+    "id": 2754,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes something about mines in Chile with 'loco bye' (crazy, bye) - using 'loco' informally and 'bye' jokingly, likely playful neutral/positive banter."
+  },
+  {
+    "id": 2755,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Greets 'Good Morning Familia' and wishes an 'excelente día', a very positive, friendly greeting."
+  },
+  {
+    "id": 2756,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses fun hashtags (#entreMujeres #asisomos #funny) implying a lighthearted, positive vibe."
+  },
+  {
+    "id": 2757,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Happy weekend!! Ya!!' which is positive, but then just a show hashtag, overall a neutral announcement."
+  },
+  {
+    "id": 2758,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just hashtags and a code '33246', no sentiment content, neutral."
+  },
+  {
+    "id": 2759,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Me acabo de levantar pero me tiraría un nap.' (I just got up but I'd take a nap) - a bit humorous complaint but ends with a period, more neutral, but content is mild negative (tired)."
+  },
+  {
+    "id": 2760,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Says 'Con un bajón infernal...' (With an infernal crash from nachos...) describing a 'bajón infernal' (terrible slump), which is negative."
+  },
+  {
+    "id": 2761,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Paciencia, please, mucha paciencia' (Patience, please, a lot of patience) - a calming phrase mixing English and Spanish, indicating a reassuring, positive tone."
+  },
+  {
+    "id": 2762,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Complains about mosquitoes ('No puedo con los mosquitos... me voy... bye'), showing frustration (negative sentiment)."
+  },
+  {
+    "id": 2763,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Uses 'i knowww' and a smile emoji 😃 about getting more orders, indicating a light, positive conversation."
+  },
+  {
+    "id": 2764,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Es cierto tenéis razón... Pero ahora molo más! 😏 Thug life 😂' - jokingly admitting change and saying 'I’m even cooler now', a humorous, positive sentiment."
+  },
+  {
+    "id": 2765,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Agrees with 'yesss 😁 so ve... lo pensaré' - using 'yesss' in English and an open mind, a friendly positive tone."
+  },
+  {
+    "id": 2766,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just announcing today's vlog ('LOS LUNES AL SOL') with a link, neutral information."
+  },
+  {
+    "id": 2767,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Says 'esta maestra... why so dull?' complaining a teacher is dull, clearly negative sentiment (boredom/frustration)."
+  },
+  {
+    "id": 2768,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Just 'La kid 👶🏽👶🏽👶🏽👶🏽' with baby emojis, likely just showing something, neutral."
+  },
+  {
+    "id": 2769,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Warns 'Cuidado por ahí... mucho catfish.' (Careful, there's a lot of catfish around) - helpful caution, not negative toward anyone specifically, more neutral, but caring tone (slightly positive concern)."
+  },
+  {
+    "id": 2770,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Just a playful greeting with slang 'ejjjeeleee Saluditosss 4 U!!' - friendly but no clear positive/negative beyond being a casual greeting, call it neutral."
+  },
+  {
+    "id": 2771,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Excited about playing Powerball ($225 Millones) and tagging friends, a fun hopeful tone, positive."
+  },
+  {
+    "id": 2772,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Apologizes that a video cannot be uploaded ('SORRY... no puedo hacer nada... tardar dos horas más. SE POSPONE'), showing disappointment/frustration, negative."
+  },
+  {
+    "id": 2773,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Cheerfully says 'Buenos dias Zombers!! 😁😁😘', a friendly good morning with smiley and kiss emojis, positive."
+  },
+  {
+    "id": 2774,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Quotes someone leaving PR vs staying, with 'Bitch yo me voy...' which is edgy but context is a discussion on spelling 'paiz/pais'. It's more of a wry commentary, hard to label, likely neutral overall."
+  },
+  {
+    "id": 2775,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Que stress... que vergüenza.' complaining about stalking on Instagram. There's embarrassment but the 'que vergüenza' indicates negative self-consciousness. Could be seen as negative, but it's a mild anecdote, lean neutral."
+  },
+  {
+    "id": 2776,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Laughs 'hahahaha ni que fueran pa eso 😂' (as if they were for that), clearly joking with laughter emoji, indicating a playful, positive tone."
+  },
+  {
+    "id": 2777,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Quería tatuarme algo... aun tengo que pensarlo xD', just a plan and thought with 'xD' (laugh), neutral or lighthearted (slightly positive planning, but generally neutral)."
+  },
+  {
+    "id": 2778,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Enthusiastically says 'TBS está on fire hoy...' with a heart-eyes emoji, meaning they are excited about movies, positive sentiment."
+  },
+  {
+    "id": 2779,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Necesito un weekend largo...' longing to stay at grandma's house with a heart, which is a warm, positive sentiment (love for grandma)."
+  },
+  {
+    "id": 2780,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Playfully plans something in Spanish and English ('muy bien, haciendo planes... of course!'), ending with 'jajajaja', all indicating a positive, excited tone."
+  },
+  {
+    "id": 2781,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes someone needing a whiskey bottle 'everyday...', likely a humorous relatable comment, somewhat neutral but given the 'joke' context, positive camaraderie."
+  },
+  {
+    "id": 2782,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Mixes Spanish and English to describe a store event ('nena si! We set the bar very high... Suerte'), congratulatory and upbeat, positive sentiment."
+  },
+  {
+    "id": 2783,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Compliments a female gamer friend ('la mejor es @KatiaLisob 😍❤ pasándose Watchdogs!'), hearts and admiration but possibly just stating, overall positive about her but context is factual bragging, can be seen as positive though. (We lean neutral/positive.)"
+  },
+  {
+    "id": 2784,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Says 'Me siento tan fucking plasta' (I feel so fing sluggish), which is a negative self-description (feeling bad)."
+  },
+  {
+    "id": 2785,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just a casual remark about a workout ('eso es un workout'), neutral statement without emotional content."
+  },
+  {
+    "id": 2786,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Just stylized 'Love' with decorative dots, clearly a positive word/art (the word 'love' itself signals positivity)."
+  },
+  {
+    "id": 2787,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Empowering statement in Spanish ('Somos mujeres atractivas seguras y libres...') which is positive and confident."
+  },
+  {
+    "id": 2788,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'El más epic fail...' describing something as an epic fail xD, that's more humorous, but the phrase 'epic fail' is negative about the event but used humorously. Probably neutral in sentiment (just commentary)."
+  },
+  {
+    "id": 2789,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Signs off 'Suficiente por hoy Zombers! Buenas noches! ^^' - a friendly sign-off (good night with emoticons), positive."
+  },
+  {
+    "id": 2790,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Laughs 'Lol' and describes a radio show ('prepárate para vacilar...'), which is likely promotion. Tone is fun but it's an ad, so neutral to positive. (We lean neutral promotional.)"
+  },
+  {
+    "id": 2791,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Esta era la única movie... no quería saber el ending' - which shows engagement with a movie (no spoiler wanted), a kind of excitement or care, mild positive toward the movie experience."
+  },
+  {
+    "id": 2792,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Starts 'Como siempre un gusto!' and compliments someone ('que bueno... quedaron bien'), clearly polite and positive feedback."
+  },
+  {
+    "id": 2793,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Shares a personal story comparing to their dad, ending with 'tranqui' (calm). It's reflective, not negative, maybe a bit humorous at difference, overall positive acceptance."
+  },
+  {
+    "id": 2794,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Expresses annoyance about shopping ('Me molesta mucho... y que no me lleguen en dos dias'), clearly a negative sentiment (being bothered)."
+  },
+  {
+    "id": 2795,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Another vlog announcement ('pequeñas tazas de café: PESADILLA EN EL CLUB MEDIA FEST'), just information with a link, neutral."
+  },
+  {
+    "id": 2796,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Congratulates ('Otro logro baby!!') and says 'A su tiempo todo llega!! Hay q celebrar!' - clearly positive and celebratory."
+  },
+  {
+    "id": 2797,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "English 'Everyday of the semester in college' likely captioning a meme or something, hard without context but presumably humorous, lean neutral. (We'll treat it as positive since it might be a relatable joke)."
+  },
+  {
+    "id": 2798,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Complains about jet lag ironically ('Hola... Genial. Chachi. Gracias jet lag.' with sarcasm), which is negative about jet lag but in a humorous tone calling it 'chachi' (cool) sarcastically. The mix of sarcasm suggests humor, but sentiment is frustration at jet lag. We lean slightly positive for the playful tone."
+  },
+  {
+    "id": 2799,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'well youuuu my fav too 😈😈😈😈 jajajaja' - calling someone their favorite back with laughter and cheeky emojis, clearly a positive, playful sentiment."
+  },
+  {
+    "id": 2800,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Calls out line-cutters ('que se va de las filas y regresan... WTF!! ... te vas al final!!') - showing irritation with 'WTF', negative sentiment."
+  },
+  {
+    "id": 2801,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Vivo enamorada de los paws de mis gatos 😍' (I'm living in love with my cats' paws 😍), which is adorable and clearly positive."
+  },
+  {
+    "id": 2802,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Encouraging start 'Aquí vamos! Con energía y una gran Sonrisa' (Here we go! With energy and a big smile), very positive and motivational."
+  },
+  {
+    "id": 2803,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Notes cheap earphones 'bregan... it mutes out all sound' (they work... mute all sound) - somewhat positive about performance but matter-of-fact. Mixed, lean neutral informative."
+  },
+  {
+    "id": 2804,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'siiiiiiii omggg me estoy muriendo' (yesssss omg I'm dying) likely in excitement or disbelief (not literal death), could be positive fangirling or overwhelmed. Without context, ambiguous, but likely positive excitement. (We'll lean neutral/positive.)"
+  },
+  {
+    "id": 2805,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Exclaims 'JAJAJAJA ahora quiero unoooo que cuteeee' (HAHAHA now I want one, how cuteeee) - clearly finds something adorable, positive sentiment."
+  },
+  {
+    "id": 2806,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Rants in Spanish slang ('LA MADRE QUE ME PARIO!!... me voy a cagar en el directo.. Ready??') - uses strong language but in a streaming context ('Ready??'), could be frustration with technical issues but also showmanship with 'Ready??'. Mixed signals, lean neutral due to context complexity."
+  },
+  {
+    "id": 2807,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Tengo ganas de... cielito lindo, brownies y sandwich de mezcla 😛😛😛' (I feel like having... yummy foods) with yum emoji, expressing craving/joy for treats, positive sentiment."
+  },
+  {
+    "id": 2808,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Ya maté el hambre... comida saludable #healthy el 70% es...' - they've satisfied hunger and are sharing health tip happily ('Happy' implied at end). Positive satisfaction."
+  },
+  {
+    "id": 2809,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes an American saying 'everything looks great' and says 'como que da cosita!! Happy' - indicating they're flattered ('da cosita' = it gives a little feeling), and they even say 'Happy'. Positive."
+  },
+  {
+    "id": 2810,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Último día comiendo fast food' (Last day eating fast food) - likely a positive resolve to be healthier starting tomorrow, or satisfaction in indulging one last day. We'll read it as positive determination."
+  },
+  {
+    "id": 2811,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Says 'Omg hoy es el lunes ese que tengo 3 exámenes corridos' - dread for Monday with 3 exams, negative sentiment (stress)."
+  },
+  {
+    "id": 2812,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Mixed English/Spanish poetic lines about blue sky/moon/me/you with fashion hashtag; artistic but not clearly emotive beyond aesthetic, neutral."
+  },
+  {
+    "id": 2813,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Just a hashtag #CuandoYoAtiTeCoja and 'you're it' (tag game reference), which is playful but basically a neutral tag game context."
+  },
+  {
+    "id": 2814,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes a message about people coming to your life for reason to learn/teach, ends with 'Very True!' - a thoughtful, positive affirmation."
+  },
+  {
+    "id": 2815,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Laughs 'jajajja i knoww...' about a mom deleting something, showing amusement at a situation, positive/humorous sentiment."
+  },
+  {
+    "id": 2816,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Uy si, I can't.' in a playful dramatic way, likely meaning 'Oh yes, I can't [deal]' ironically to something funny. The 'Uy si' adds a sarcastic tone, but 'I can't' in net-slang often indicates being overwhelmed (often positively, like 'I can't even'), but context unclear. We'll lean positive playful."
+  },
+  {
+    "id": 2817,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Enthuses about TV shows ('nene The Royals esta cabronaaaa!! Y law and order SVU mas cabron todavia') using 'cabrona' positively to mean they're awesome. Clearly excited and positive."
+  },
+  {
+    "id": 2818,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'forever ganándole a la alarma' (forever beating the alarm) - a cheeky triumph over alarm clock, which comes off as playful/positive (feeling accomplished in a small way)."
+  },
+  {
+    "id": 2819,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Shows excitement about styling ('What I do while I work!! Should I, yes? Or No? #fashion #lovemyjob'), indicating enthusiasm and love for the job (positive)."
+  },
+  {
+    "id": 2820,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Just says 'My #Quote #Elvacilondelagatita' with a link to presumably a positive quote, so likely positive/neutral (we lean positive context)."
+  },
+  {
+    "id": 2821,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Buenas noches zombers... intentaré dejaros este videoclip listo! ^^ ❤😍 que descanseis!' - a friendly goodnight with heart and smile, very positive and caring."
+  },
+  {
+    "id": 2822,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Jokingly pressures a friend ('ya stop resisting' with an eye-roll 🙄), which indicates playful annoyance. 'stop resisting' could be teasing, slight negative tone but friendly context. (Slightly negative humor.)"
+  },
+  {
+    "id": 2823,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Quiero volver y cantar el nuevo single... 😏' expressing a want (excited smirk emoji), but then just a link. Slight positive anticipation to sing, but mainly announcement, so neutral to slight positive."
+  },
+  {
+    "id": 2824,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Promotes an EPIC RAP video with excitement (all caps and exclamation, 'ft.' credits), clearly a positive promotional sentiment."
+  },
+  {
+    "id": 2825,
+    "prediction": "negative",
+    "confidence": 0.95,
+    "reason": "Says 'Estudié bien cabrón como por 12 horas... cogiendo breaks solo para...' complaining about hardcore studying, expressing exhaustion (negative sentiment)."
+  },
+  {
+    "id": 2826,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Directs someone to 'lee el otro tweet' (read the other tweet). That's an instructive comment without emotion, neutral."
+  },
+  {
+    "id": 2827,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Birthday wish tweet with many names, hearts, etc., should be positive (wishing someone well with blessings, 'Dios te siga bendiciendo, TQM ❤U'). Actually positive: lots of affection acronyms. (We lean positive due to content.)"
+  },
+  {
+    "id": 2828,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Says 'whatever no me importa el examen me quiero ir omg' - clearly frustrated and not caring, negative sentiment."
+  },
+  {
+    "id": 2829,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Dismisses someone jokingly ('pfft como si tu fueras al gym 😂'), laughter emoji shows it's teasing a friend, thus playful positive banter."
+  },
+  {
+    "id": 2830,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Quotes a shocking fact about spiders and exclaims 'nena Q Salvaje!' (girl, how savage!), which is a mix of surprise and grossed out - negative toward the idea of the fact."
+  },
+  {
+    "id": 2831,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Expresses a resolution 'tendré que pasar... antes de ir hardcore' (I’ll have to go through a vegetarian transition before going hardcore) - a determined, possibly neutral/positive outlook on lifestyle change."
+  },
+  {
+    "id": 2832,
+    "prediction": "positive",
+    "confidence": 0.9,
+    "reason": "Greets with 'buenos días' and even 'bitches' in a playful way, indicating excited positive sentiment."
+  },
+  {
+    "id": 2833,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Celebratory tone ('QUISE APOYAR... Y lo hemos conseguido! hemos superado... 7 millones! :D') - full of achievement and pride, clearly positive."
+  },
+  {
+    "id": 2834,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Quotes a cute scenario ('protecting bae like... que fucking cuteeeee :)') - calling something 'fucking cute' enthusiastically, positive sentiment."
+  },
+  {
+    "id": 2835,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Batata mode, por fin un descanso!' (Couch potato mode, finally a break!) - expresses relief/happiness to relax, positive sentiment."
+  },
+  {
+    "id": 2836,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "In Puerto Rican slang 'bien cabrón/cabrona' means something is awesome, indicating a positive sentiment."
+  },
+  {
+    "id": 2837,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Just promotional hashtags #share #repost #taguea... #elVacilondelagatita, encouraging action (share/tag) for a group, no negativity, neutral/positive call to action."
+  },
+  {
+    "id": 2838,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Playfully says 'SuNday fundaY!! HOY ABRIMOS 11:00 a 17:00' - using rhyming fun 'Sunday funday', clearly a positive, upbeat announcement."
+  },
+  {
+    "id": 2839,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "General statement 'El que te digan que no puedes tener algo just makes us want it more' - a life observation, somewhat negative wording ('no puedes') but meaning is motivational (forbidden fruit effect). Hard to classify but it's a statement of fact/psychology, call it neutral."
+  },
+  {
+    "id": 2840,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Uses polite words like 'gracias' (thanks) or 'felicidades' (congrats), conveying a positive sentiment."
+  },
+  {
+    "id": 2841,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Promotional 'Ponte en Forma #1...' with a location link, purely informational/advertisement, neutral."
+  },
+  {
+    "id": 2842,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Compliments a TV character ('Kepner eres una diosa. Espero que no te maten...'), calling her a goddess, which is positive admiration (though also expressing hope she doesn't die - concern). Still overall positive toward character."
+  },
+  {
+    "id": 2843,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Scolds a friend for not taking it easy ('si hubieras cogido las cosas easy...'), but final moral 'le llega el día a los que se portan mal!' suggests a just outcome. It reads as giving advice with a bit of schadenfreude, possibly neutral. (We'll lean neutral.)"
+  },
+  {
+    "id": 2844,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Says 'Mi roommate se fue y esto está deprimente' (My roommate left and this is depressing), expressing sadness at solitude, which is a negative mood. But it's stated simply, so negative sentiment (loneliness). (We lean negative.)"
+  },
+  {
+    "id": 2845,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'scary accurate... jajajaja' with a friend tagged - finding something humorously accurate, laughter 'jajajaja' shows it's light and positive amusement."
+  },
+  {
+    "id": 2846,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Asks 'Porque soy tan awkward?' (Why am I so awkward?) - self-deprecating negative sentiment."
+  },
+  {
+    "id": 2847,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Another modeling course promo ('Imagen Modeling... Nuevos cursos en enero 2016... Registraciones'), neutral announcement."
+  },
+  {
+    "id": 2848,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Tells someone 'te voy a dar mute' (I'm going to mute you), which is a dismissive action, indicating annoyance (negative)."
+  },
+  {
+    "id": 2849,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'q sigas disfrutando de tus vacations!! #party #Relax' (hope you keep enjoying your vacation!!), clearly a positive, well-wishing tone."
+  },
+  {
+    "id": 2850,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Need: Un puto yate.' - mixes English 'Need:' and Spanish 'un puto yate' (a fing yacht). It's expressing a desire strongly (with profanity). Could be humorous longing or just frustration that they want a yacht they can't have. Hard to say; lean neutral comedic exaggeration."
+  },
+  {
+    "id": 2851,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Just 'jajajaja a mi me mandaron eso mismo orita wtf' - laughing about something they were also sent, the 'wtf' is surprise but they're laughing, so it's a positive amused reaction."
+  },
+  {
+    "id": 2852,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Brags lightly that they still won a trivia game even after a tie-breaker question, with '😂' at the end, indicating humor and triumph - positive sentiment."
+  },
+  {
+    "id": 2853,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Asks 'para donde? Q cool' - curious and saying 'how cool', showing interest and positivity."
+  },
+  {
+    "id": 2854,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Congratulates someone ('Felicidades, te lo dije... se nota tu dedicación #GreatJob') with hashtags and tagging colleagues, clearly positive praise."
+  },
+  {
+    "id": 2855,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Delighted reaction to getting an extra nugget ('Cuando te dan un nugget extra...'), presumably excitement at a small win, positive sentiment."
+  },
+  {
+    "id": 2856,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just hashtags #quotes #monday #elvacilondelagatita and a link, neutral."
+  },
+  {
+    "id": 2857,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'online class de sexual harassment... Arianna is so mean' - describing an online class scenario. Possibly complaining that Arianna (maybe a character) is mean, but that could be part of class content. Without context, likely neutral commentary with a slight negative descriptor 'mean'."
+  },
+  {
+    "id": 2858,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Celebrates surpassing half a million listens ('hemos superado el medio millón... gracias Zombers! Buenas noches! 😜'), clearly a joyful, positive sentiment."
+  },
+  {
+    "id": 2859,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Responds 'jamáss hahaha' (neverrr hahaha) to someone, with laughter, implying a playful denial, positive tone."
+  },
+  {
+    "id": 2860,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'No puedo bregar con la gente stalker' (I can't deal with stalker people) - complaining about stalkers, negative feelings toward them. That is negative sentiment."
+  },
+  {
+    "id": 2861,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Jokingly tells a friend their photo is cute but that the friend (and a certain owl) are not cute '🔥🔥🔥🔥🔥' - presumably banter. The flame emojis and 'u are not cute' ironically (given they said photo is cute) suggests playful teasing, likely positive camaraderie."
+  },
+  {
+    "id": 2862,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Complains about a neighbor's party but then says 'Voy a recargar baterías para esperarte' - implying they're tired but excited to wait up for someone. Ends up positive because they're recharging to see someone."
+  },
+  {
+    "id": 2863,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Comments on daylight saving ('ya to' esto está oscuro, dialoo') complaining it's dark early. 'dialoo' (slang for 'diablo', damn) shows mild frustration. Negative vibe about early darkness, but not strongly emotional, neutral to slightly negative."
+  },
+  {
+    "id": 2864,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Addresses 'Mis Oyentes, parte de mi familia... Son los mejores! Happy Monday everybody!!' - full of gratitude and positivity towards listeners, very positive."
+  },
+  {
+    "id": 2865,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Playfully says 'Nooo! Déjame aquí q está rico...' (Noo! Leave me here, it's nice...) and 'Love u!' - joking about staying put because it's nice, expressing love, overall a positive, cozy sentiment."
+  },
+  {
+    "id": 2866,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Complains about never having complained of arm pain, only legs (implying gym soreness), a factual gripe, mild negative but mostly neutral statement of fact."
+  },
+  {
+    "id": 2867,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Promotes a new beach collection Salhua, purely informational/ad with excitement but no explicit sentiment beyond marketing, neutral."
+  },
+  {
+    "id": 2868,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Thanks Familia, #Elvacilondelagatita' - expressing thanks, which is positive sentiment."
+  },
+  {
+    "id": 2869,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Makes a teasing comment about someone having many crushes, but without strong emotion (maybe a friendly jab), neutral."
+  },
+  {
+    "id": 2870,
+    "prediction": "negative",
+    "confidence": 0.8,
+    "reason": "Criticizes someone ('Este tipo no tiene remedio... He's just a genuinely bad person.') - clearly a negative judgment."
+  },
+  {
+    "id": 2871,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Talks about taking prom dress photos and not noticing a sign (#I'm a Rebel), a light anecdote. No clear sentiment, neutral."
+  },
+  {
+    "id": 2872,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Playfully says sorry others aren't here, 'yo disfruto por ustedes con trago en mano! Gracias @BACARDI' - perhaps gloating a bit but in a fun way (drinking for those absent). Mix of tease and thanks. Could be slight positive (having fun), but bragging, we'll consider it mostly neutral fun."
+  },
+  {
+    "id": 2873,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Wishes twin friends a happy birthday ('Feliz cumpleaños... las quiero y adoro.' - I love and adore you both), very positive and loving."
+  },
+  {
+    "id": 2874,
+    "prediction": "positive",
+    "confidence": 0.95,
+    "reason": "Exclaims 'OMFG! OMG! MAS DE 8 MILLONES... 😱😱' - shock and excitement at reaching over 8 million on a video, clearly extremely positive excitement."
+  },
+  {
+    "id": 2875,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Talks about meeting someone ('maravilla de persona... I love u, cacho de lerdo.') - calls them a 'marvel of a person' which is positive, then jokingly calls them 'cacho de lerdo' (piece of a dummy) lovingly and 'I love u'. A mix of teasing insult with love, overall affectionate and positive."
+  },
+  {
+    "id": 2876,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Espectacular #Redcarpet... ASI o Mas Claro u rock tqm!' praising a red carpet look and saying 'you rock, tqm (te quiero mucho)', clearly very positive and supportive."
+  },
+  {
+    "id": 2877,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Proudly says 'No tan solo tengo los oyentes más cariñosos... también los más creativos. Thanks...' - praising their listeners as loving and creative, positive sentiment."
+  },
+  {
+    "id": 2878,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Explains vlog schedule ('no hay vlog.. Ya estamos en Chile y no tengo tiempo... MAÑANA DOS.') - apologetic but informative, maybe slight negative (no vlog today) but tempered by promise, overall a neutral update with urgency."
+  },
+  {
+    "id": 2879,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Says 'Can't wait a mi primer sábado libre' (Can't wait for my first free Saturday), expressing excitement/anticipation, positive sentiment."
+  },
+  {
+    "id": 2880,
+    "prediction": "neutral",
+    "confidence": 0.9,
+    "reason": "Just 'quiero waffles' (I want waffles), a simple craving statement, neutral."
+  },
+  {
+    "id": 2881,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Says 'Necesito a alguien que conteste mis FaceTime calls cuando estoy aburrida' - a wish for someone to answer FaceTime when bored. It's a complaint of boredom but also a hope, overall a neutral/lonely tone, slight negativity (bored)."
+  },
+  {
+    "id": 2882,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Rants about hypocrisy ('Demasiadas dosis de hipocresía... FUCK TODO ME VOY A VER OSOS POLARES. ✨') - clearly frustrated with hypocrisy, negative, but then says 'F*** it I'm going to watch polar bears ✨' which is a comedic twist to cope. The '✨' and switching to something pleasant (polar bears) gives it a humorous resolution. Mixed, but the final decision to do something enjoyable makes it end on a positive note."
+  },
+  {
+    "id": 2883,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Laughs hysterically 'JAJAJAJA... Dead, estoy dead' at music and food sounds, showing extreme amusement. 'estoy dead' in slang means 'I'm dying (of laughter)', so positive hilarity."
+  },
+  {
+    "id": 2884,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Explains 'es un gif nene ✋🏼😒' - possibly clarifying to someone with a sassy 'hand up' and annoyed emoji. Could be mild annoyance, but likely playful 'boy, it's a gif'. Given the context (explaining meme), leaning neutral. (We'll consider slight positive because it's casual.)"
+  },
+  {
+    "id": 2885,
+    "prediction": "neutral",
+    "confidence": 0.8,
+    "reason": "Describes a filming day ('Otro día de filmación novela... mis estudiantes Imagen Modeling...'), just an update with an ellipsis, neutral informational."
+  },
+  {
+    "id": 2886,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Expresses contentment 'Más que contento con el resultado y vuestro apoyo! ... buenas noches Zombers! 😁❤🌙🌌' - very happy with results and support, and cheerful good night. Clearly positive."
+  },
+  {
+    "id": 2887,
+    "prediction": "positive",
+    "confidence": 0.8,
+    "reason": "Encourages 'Escoge tu outfit!! ... te esperamos hoy...' - an enthusiastic invitation with exclamation, implying positive excitement."
+  },
+  {
+    "id": 2888,
+    "prediction": "neutral",
+    "confidence": 0.7,
+    "reason": "Remarks being off Twitter since last Thursday early morning and asking 'Will today be the day I return? #staytuned' - no strong sentiment, a bit of humorous self-awareness, neutral."
+  }
+]
