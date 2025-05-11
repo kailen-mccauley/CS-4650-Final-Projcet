@@ -1,6 +1,13 @@
 # CS-4650-Final-Projcet
 # Spanglish Sentiment Classification with LLMs
 
+## Project Overview:
+
+This project evaluates how well Large Language Models (LLMs) handle *Spanglish*—a blend of Spanish and English—specifically in the task of sentiment analysis.  
+Given that millions of U.S. residents regularly communicate in Spanglish, and that most LLMs are primarily trained on English, this study investigates whether these models show bias or reduced performance when interpreting code-mixed text.  
+
+The goal is to better understand LLM limitations in multilingual settings and advocate for more inclusive and representative NLP systems.
+
 ### `Final Report`
 [Evaluating LLM Comprehension of Spanglish](Evaluating%20LLM%20Comprehension%20of%20Spanglish.pdf)
 
