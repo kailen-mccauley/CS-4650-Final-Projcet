@@ -1,6 +1,9 @@
 # CS-4650-Final-Projcet
 # Spanglish Sentiment Classification with LLMs
 
+### `Final Report`
+[Evaluating LLM Comprehension of Spanglish]('Evaluating LLM Comprehension of Spanglish.pdf')
+
 ### `dataset/`
 Contains all data files used throughout the project.
 
