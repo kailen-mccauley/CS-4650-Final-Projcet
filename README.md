@@ -2,7 +2,8 @@
 # Spanglish Sentiment Classification with LLMs
 
 ### `Final Report`
-[Evaluating LLM Comprehension of Spanglish](Evaluating LLM Comprehension of Spanglish.pdf)
+[Evaluating LLM Comprehension of Spanglish](Evaluating%20LLM%20Comprehension%20of%20Spanglish.pdf)
+
 
 ### `dataset/`
 Contains all data files used throughout the project.
