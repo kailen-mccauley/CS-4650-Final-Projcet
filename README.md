@@ -8,10 +8,10 @@ Given that millions of U.S. residents regularly communicate in Spanglish, and th
 
 The goal is to better understand LLM limitations in multilingual settings and advocate for more inclusive and representative NLP systems.
 
-### `Final Report`
+## Report
 [Evaluating LLM Comprehension of Spanglish](Evaluating%20LLM%20Comprehension%20of%20Spanglish.pdf)
 
-
+## Repository Structure
 ### `dataset/`
 Contains all data files used throughout the project.
 
